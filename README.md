@@ -394,9 +394,31 @@ See `CONTRIBUTING.md` for guidelines.
 
 ## License
 
-**Dual licensed**:
-- **Code**: MIT License (maximum reuse)
-- **Documentation**: CC BY-SA 4.0 (attribution + share-alike)
+**Dual licensed for maximum protection and accessibility**:
+
+### Code: Apache License 2.0
+- Permissive commercial use
+- Explicit patent grant
+- Contributor protections
+- Trademark safeguards
+
+See [LICENSE-APACHE](LICENSE-APACHE) for full text.
+
+### Documentation: CC BY-SA 4.0
+- Free to share and adapt
+- Attribution required
+- Share-alike (improvements stay open)
+- International standard for academic/educational content
+
+See [LICENSE-CC-BY-SA](LICENSE-CC-BY-SA) for full text.
+
+### Why This Combination?
+
+**Apache 2.0** protects the code infrastructure from patent trolls while remaining corporate-friendly.
+
+**CC BY-SA 4.0** ensures mathematical/philosophical foundations remain open and properly attributed.
+
+Together, they create a **defensible commons** that serves both mission (literacy liberation) and ecosystem (commercial adoption).
 
 ---
 
