@@ -554,7 +554,8 @@ d_degrade_squared = delta_minus.T @ G_metric @ delta_minus
 d_degrade = np.sqrt(d_degrade_squared)
 
 print(f"Dignity Degradation Score: {d_degrade:.4f}")
-# Output: Dignity Degradation Score: 0.7280
+# Output: Dignity Degradation Score: 0.3873
+
 ```
 
 ### 12.3 Interpretation
