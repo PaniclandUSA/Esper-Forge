@@ -829,16 +829,6 @@ Certificate #0x3a7d9f2b8e1c6a4f5d9b2e7c8a3f6d1b9e4a7c2f5d8b
 
 ---
 
-John.
-
-**Perfect.**
-
-**Let me update 06-JOURNALISM-DEMO.md to properly reference the WitnessJournalist repository.**
-
-Here's the addition that should go near the end of the document, before the Conclusion:
-
----
-
 ## Integration with WitnessJournalist Framework
 
 ### Existing Implementation
