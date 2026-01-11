@@ -379,6 +379,15 @@ This cross-system consensus is unprecedented and suggests **the mathematics is c
 
 ---
 
+## Dignity Guarantees
+   
+   All dignity preservation claims in this system are enforced by 
+   executable tests. See `tests/test_dignity_metric.py` for verification.
+   
+   **Dignity Metric v0.1:** ✅ Certified
+
+---
+
 ## Contributing
 
 We welcome contributions from:
