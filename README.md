@@ -11,8 +11,7 @@ If it doesn’t, it never should have existed.
 
 ---
 
-## What Makes ESPER-FORGE Different (This Pulls Serious Devs)
-
+## What Makes ESPER-FORGE Different
 Most AI safety systems ask:
 
 > “Does this output violate policy?”
