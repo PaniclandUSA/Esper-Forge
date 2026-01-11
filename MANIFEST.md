@@ -4,7 +4,7 @@
 
 ### Why This Exists
 
-ESPER-FORGE exists because **trust without proof has failed**.
+ESPER-FORGE exists because **trust without proof is doomed to failure**.
 
 Across education, journalism, law, medicine, and creative work, AI systems are being asked to *mediate truth* without any formal way to prove that truth was preserved, dignity was respected, or constraints were honored.
 
