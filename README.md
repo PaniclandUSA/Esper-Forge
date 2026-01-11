@@ -1,4 +1,4 @@
-### 🔥 ESPER-FORGE
+#### 🔥 ESPER-FORGE
 
 **A geometric verification engine for AI generation**
 
