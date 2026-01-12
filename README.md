@@ -300,6 +300,8 @@ Output: Cryptographically signed certificate
 
 **Funding**: CYRANO romance/poetry app ($14.99/month) → The Cyrano de Bergerac Foundation → Neighbor-to-neighbor literacy tutoring
 
+"Teaching a neighbor to read is a labor of love."
+
 ### 2. WitnessJournalist (Epistemic Restoration)
 
 **Mathematical proof for journalism**:
