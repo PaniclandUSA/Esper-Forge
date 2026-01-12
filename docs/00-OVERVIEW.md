@@ -70,7 +70,7 @@ Educational AI often:
 - Learners disengage
 - Cultural identity attacked
 - Agency denied
-- 4 million Americans remain illiterate
+- 44 million Americans remain illiterate
 
 ---
 
