@@ -229,7 +229,7 @@ Esper-Forge/
 - Cannot prove integrity, only estimate confidence
 
 **Critical gaps**:
-- 4 million Americans lack literacy (need adaptive learning that preserves dignity)
+- 44 million Americans lack literacy (need adaptive learning that preserves dignity)
 - Journalism lacks mathematical proof of measurement integrity
 - Courts cannot trust AI-generated evidence
 - Creative work has no provenance protection
